@@ -1,8 +1,8 @@
 
     .my-2:hover {
-        background: #e40808;
-        color:whitesmoke;
-        text-decoration: capitalize;
+        background: #ebcfcf;
+        color:black;
+        text-decoration: none;
         border-radius: 10px;
       
         
@@ -14,7 +14,7 @@
         text-decoration: none;
         font-size: 20px;
         font-family: 'Roboto', sans-serif;
-        font-weight: bold;
+       
         
       
           
