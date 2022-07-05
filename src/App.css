@@ -1,0 +1,22 @@
+
+    .my-2:hover {
+        background: #e40808;
+        color:whitesmoke;
+        text-decoration: capitalize;
+        border-radius: 10px;
+      
+        
+
+    }
+    .my-2{
+       
+        color:white;
+        text-decoration: none;
+        font-size: 20px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        
+      
+          
+       }
+    
